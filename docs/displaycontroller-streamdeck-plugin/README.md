@@ -1,1 +1,1 @@
-#Display Controller - StreamDeck Plugin
+# Display Controller - StreamDeck Plugin
